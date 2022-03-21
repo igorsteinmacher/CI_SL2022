@@ -1,0 +1,12 @@
+language: python
+
+python:
+  - "3.6"
+
+sudo: required
+
+install:
+  - pip install unittest2
+
+script:
+  - python v0/PrimesTestCase.py
