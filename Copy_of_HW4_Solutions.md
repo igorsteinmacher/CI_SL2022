@@ -228,8 +228,8 @@ The function should be called `file_read_from_tail` that receives two parameters
  - Reads and stores the contents of the file up to num_lines. (4)
 
 *Output (6 marks):*
-• Outputs the results from the Processing step. (3)
-• Notify user that there was an error. (3)
+- Outputs the results from the Processing step. (3)
+- Notify user that there was an error. (3)
 
 *Style (2 marks)*
  -  PEP (variables and functions all lower case. Meaningful names)
