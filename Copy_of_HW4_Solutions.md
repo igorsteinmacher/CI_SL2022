@@ -160,7 +160,7 @@ Write a function `count_above(threshold)` in Python that reads the contents of `
   - Determine the students whose grades are above threshold. (3)
   - Count the number of students that are below the threshold. (3)
 
-*(Output 4 marks):*
+*Output (6 marks):*
   - Outputs the results from the Processing step:
     - (names above threshold) (2)
     - (number of the students below threshold) (2)
@@ -217,19 +217,19 @@ The function should be called `file_read_from_tail` that receives two parameters
 
 ### Rubric (20 marks)
 
-*Correct Inputs (3 marks):*
- - signature should be "file_read_from_tail(fname, num_lines)" (1)
+*Correct Inputs (4 marks):*
+ - signature should be "file_read_from_tail(fname, num_lines)" (2)
  - Correctly reads the fname file. (2)
 
 *Error Handling (2 marks):*
  - Include error handling for file opening (try-except) (2)
 
-*Processing steps (4 marks):*
+*Processing steps (6 marks):*
  - Reads and stores the contents of the file up to num_lines. (4)
 
-*Output (4):*
-• Outputs the results from the Processing step. (10%)
-• Notify user that there was an error. (10%)
+*Output (6 marks):*
+• Outputs the results from the Processing step. (3)
+• Notify user that there was an error. (3)
 
 *Style (2 marks)*
  -  PEP (variables and functions all lower case. Meaningful names)
